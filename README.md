@@ -12,7 +12,7 @@ ported to linux by em00k 2018-08-18
 Plays multiple pt3 songs simultaneously, assuming each per AY chip, up to 6. 
 
 Run (For linux build):
-playpt3 <song1.pt3> <song2.pt3> <song3.pt3>
+playpt3 song1.pt3 song2.pt3 song3.pt3
 
 or
 Drag'n'drop multiple pt3's on playpt3.exe
