@@ -3,7 +3,7 @@
 multi-pt3 player by Volutar 2021-12-21
 Ayumi AY/YM synth engine by Peter Sovetov
 
-ported to linux by em00k 2018-08-18
+ported to linux by em00k 2025-08-18
 + better input routines to handle linux escape codes
 + uses linux x11 alsa
 + build.sh  - build 
